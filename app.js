@@ -13,9 +13,9 @@ const projects = [
 ];
 
 const homeCategories = {
-  bedroom: { titleKey: 'homeBedroom', images: ['assets/home-bedroom-instagram.jpg', 'assets/home-bedroom-showroom-instagram.jpg', 'assets/home-bedroom-wood-instagram.jpg'] },
-  living: { titleKey: 'homeLiving', images: ['assets/home-living-instagram.jpg', 'assets/home-sofa-beige-instagram.jpg', 'assets/home-sofa-blue-instagram.jpg'] },
-  soft: { titleKey: 'homeSoft', images: ['assets/home-sofa-instagram.jpg', 'assets/home-sofa-detail-instagram.jpg', 'assets/home-sofa-teal-instagram.jpg'] },
+  bedroom: { titleKey: 'homeBedroom', images: ['assets/home-bedroom-instagram.jpg', 'assets/home-bedroom-showroom-instagram.jpg', 'assets/home-bedroom-wood-instagram.jpg', 'assets/trend-bedroom-01.jpg', 'assets/trend-bedroom-02.jpg', 'assets/trend-bedroom-03.jpg', 'assets/trend-bedroom-04.jpg', 'assets/trio-youth-bedroom-01.jpg', 'assets/trio-youth-bedroom-02.jpg', 'assets/bordo-bedroom-01.jpg', 'assets/bordo-bedroom-02.jpg', 'assets/monaco-bedroom-01.jpg', 'assets/monaco-bedroom-02.jpg'] },
+  living: { titleKey: 'homeLiving', images: ['assets/home-living-instagram.jpg', 'assets/home-sofa-beige-instagram.jpg', 'assets/home-sofa-blue-instagram.jpg', 'assets/bordo-guest-set-01.jpg', 'assets/bordo-guest-set-02.jpg'] },
+  soft: { titleKey: 'homeSoft', images: ['assets/home-sofa-instagram.jpg', 'assets/home-sofa-detail-instagram.jpg', 'assets/home-sofa-teal-instagram.jpg', 'assets/finezza-sofa-01.jpg', 'assets/finezza-sofa-02.jpg', 'assets/soft-sofa-02.jpg', 'assets/soft-sofa-03.jpg', 'assets/berfin-sofa-01.jpg', 'assets/berfin-sofa-02.jpg'] },
 };
 
 const countries = {
